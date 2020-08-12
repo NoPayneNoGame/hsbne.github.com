@@ -9,7 +9,7 @@ give up certain freedoms in order for our community to run smoothly.
 
 ## Dings
 
-When you see a member doing something thats not excellent, you're obliged to issue what we call a 'ding'. Theres always a ding thread on the forum, and posting there is the official way to ding someone. Dings are nothing more than records, so that people get friendly reminders about what we all want to see at the space, and so we can all see patterns of behaviour.
+When you see a member doing something thats not excellent, you're obliged to issue what we call a 'ding'. There should always be a ding section on the forum [here](https://forum.hsbne.org/c/engine-room/Dings/), and posting there is the official way to ding someone. Dings are nothing more than records, so that people get friendly reminders about what we all want to see at the space, and so we can all see patterns of behaviour.
 
 Anyone can issue a ding to anyone, and theres no penalty for being dinged. Take it as constructive criticism.
 
@@ -67,6 +67,7 @@ site procedures.
 - Failing to secure the site appropriately (ie lock everything up).
 - Modifying any part of HSBNE's core infrastructure without explicit, written approval from it's maintainer(s), or a vote at a general meeting. HSBNE core infrastructure includes (but is not limited to): servers, networking equipment, network cabling, interlocks and access control, any member kiosk, and the Zigbee network.
 	- For the purpose of this item, maintainers are defined as anyone who regularly performs work on the infrastructure item or that is listed on the Wiki page as a maintainer.
+- Verbal abuse of another person (including yelling, harassment, intimidation, etc.)
 
 ### Schedule 3: 1st - 3 months, 2nd - Permanent
 
@@ -75,3 +76,17 @@ site procedures.
 - Defeating or bypassing any kind of interlocks on tools, whether factory or HSBNE installed, for the purpose of using the tool rather than as part of a repair process.
 - Accessing or attempting to access the site without exec approval during a ban.
 - Continuing to engage in activities onsite or online other than collecting stored items during a ban.
+
+### Leniency for new members
+In the interest of fairness to newer members who are still getting used to HSBNE rules, the following applies:
+
+1. Any member whose combined length of membership with HSBNE is less than 3 months:
+    1. should receive a "quarter strength" ban for actions listed in schedule 1 and 2:
+        1. where no serious consequences have occured as a result of their action; and
+        2. they have not received a previous warning or ding related to the their action.
+    2. should receive a "half strength" ban for actions listed in schedule 1 and 2:
+	    1. where only mild consequences have occured as a result of their action; and
+       2. they have not received a previous warning or ding related to the their action.
+2. The ban strengths are defined as followed:
+	1. A "quarter strength" ban is defined as 25% of the length of the ban period specified in the ban schedule.
+	2. A "half strength" ban is defined as 50% of the length of the ban period specified in the ban schedule.
