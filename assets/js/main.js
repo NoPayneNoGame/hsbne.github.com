@@ -99,7 +99,7 @@ function main() {
 
         // Pretty Photo
         $("a[rel^='prettyPhoto']").prettyPhoto({
-            social_tools: false;
+            social_tools: false,
             theme: 'dark_rounded'
         });
         
