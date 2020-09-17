@@ -3,6 +3,7 @@ _site
 .vimrc
 .bundle/*
 .vagrant/*
+.jekyll-cache
 vendor/bundle
 Gemfile.lock
 node_modules
